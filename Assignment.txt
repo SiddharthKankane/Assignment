@@ -1,3 +1,0 @@
-Program1: pythoncalculator
-Program2: Appliacescost
-Program3: Webautomation(only code no framework)
